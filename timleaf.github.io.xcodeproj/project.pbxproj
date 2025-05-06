@@ -10,6 +10,7 @@
 		037B70682DCA1BFD003E9870 /* index.html */ = {isa = PBXFileReference; lastKnownFileType = text.html; path = index.html; sourceTree = "<group>"; };
 		037B70692DCA1C06003E9870 /* styles.css */ = {isa = PBXFileReference; lastKnownFileType = text.css; path = styles.css; sourceTree = "<group>"; };
 		037B706A2DCA1C0F003E9870 /* script.js */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.javascript; path = script.js; sourceTree = "<group>"; };
+		03948CCD2DCA2015002A202E /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXGroup section */
@@ -19,6 +20,7 @@
 				037B70682DCA1BFD003E9870 /* index.html */,
 				037B70692DCA1C06003E9870 /* styles.css */,
 				037B706A2DCA1C0F003E9870 /* script.js */,
+				03948CCD2DCA2015002A202E /* README.md */,
 			);
 			sourceTree = "<group>";
 		};
