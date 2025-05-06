@@ -5,15 +5,36 @@
 	<!-- Head -->
 	<head>
 		<meta charset="UTF-8">
-		<meta name="viewport" content="width=device-width, initial-scale=1.0">
-		<title>Tim Leaf</title>
-		<link rel="stylesheet" href="styles.css">
-	</head>
-
+			<meta name="viewport" content="width=device-width, initial-scale=1.0">
+				<title>Tim Leaf</title>
+				<link rel="stylesheet" href="styles.css">
+				</head>
+	
+	<!-- Body -->
 	<body>
-	
-		<h1>Tim Leaf - Portfolio</h1>
 		
+		<!-- Header -->
+		<header>
+			<h1 data-i18n="header">Welcome to my portfolio</h1>
+			<nav>
+				<button onclick="setLanguage('en')">🇬🇧</button>
+				<button onclick="setLanguage('fr')">🇫🇷</button>
+			</nav>
+		</header>
+		
+		<!-- Main -->
+		<main>
+			<section>
+				<h2 data-i18n="about">About Me</h2>
+				<p data-i18n="bio">I‘m a C++ developer and computer science student.</p>
+			</section>
+			
+			<section>
+				<h2 data-i18n="contact">Contact</h2>
+				<p>Email: <a href="mailto:leflemtim33@gmail.com">leflemtim33@gmail.com</a></p>
+			</section>
+		</main>
+		
+		<script src="script.js"></script>
 	</body>
-	
 </html>

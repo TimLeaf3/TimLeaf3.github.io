@@ -13,6 +13,14 @@
 		03948CCD2DCA2015002A202E /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
+/* Begin PBXFileSystemSynchronizedRootGroup section */
+		03948CCE2DCA2327002A202E /* lang */ = {
+			isa = PBXFileSystemSynchronizedRootGroup;
+			path = lang;
+			sourceTree = "<group>";
+		};
+/* End PBXFileSystemSynchronizedRootGroup section */
+
 /* Begin PBXGroup section */
 		037B70612DCA1BF7003E9870 = {
 			isa = PBXGroup;
@@ -20,6 +28,7 @@
 				037B70682DCA1BFD003E9870 /* index.html */,
 				037B70692DCA1C06003E9870 /* styles.css */,
 				037B706A2DCA1C0F003E9870 /* script.js */,
+				03948CCE2DCA2327002A202E /* lang */,
 				03948CCD2DCA2015002A202E /* README.md */,
 			);
 			sourceTree = "<group>";
